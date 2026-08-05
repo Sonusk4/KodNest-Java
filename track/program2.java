@@ -6,7 +6,7 @@ public class program2 {
         int n = sc.nextInt();
         if (n > 0) {
             System.out.println("positive");
-        } else if (n == 0) {
+        } else if (n==0) {
             System.out.println("zero");
         } else {
             System.out.println("negative");
