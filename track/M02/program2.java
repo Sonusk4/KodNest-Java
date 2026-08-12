@@ -1,3 +1,5 @@
+package track.M02;
+
 import java.util.*;
 
 public class program2 {
