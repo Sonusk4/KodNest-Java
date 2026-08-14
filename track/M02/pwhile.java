@@ -1,4 +1,3 @@
-package track.M02;
 
 public class pwhile {
     int i=1;while(i<=5)

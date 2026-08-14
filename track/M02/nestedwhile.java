@@ -1,4 +1,3 @@
-package track.M02;
 
 public class nestedwhile {
     public static void main(String[] args) {

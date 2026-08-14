@@ -1,4 +1,3 @@
-package track.M02;
 
 class Mobile {
     int pass = 123;

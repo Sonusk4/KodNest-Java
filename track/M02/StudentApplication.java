@@ -1,4 +1,3 @@
-package track.M02;
 
 class Student {
     int age;
