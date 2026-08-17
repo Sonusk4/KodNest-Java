@@ -1,4 +1,3 @@
-package pratice;
 
 class Student {
     String name;
