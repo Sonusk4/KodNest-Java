@@ -9,6 +9,6 @@ public class ArrMin {
                 min = a[i];
             }
         }
-        System.out.println("the maximum element is:" + min);
+        System.out.println("the minimum element is:" + min);
     }
 }
